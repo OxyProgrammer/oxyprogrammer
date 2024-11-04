@@ -9,7 +9,7 @@ I have a diverse technical background in a wide range of technologies, allowing 
 - **Languages & Frameworks**: JavaScript, .NET, C#, React, Next.js, Golang
 - **Cloud & DevOps**: AWS, Kubernetes, Docker
 - **Databases**: Postgre, MS SQL, SQLite
-- **Networking**: AWS VPC and 
+- **Networking**: AWS VPC and Physical networking too.
 
 For the last 10 years, I've focused on delivering cutting-edge solutions in the **Finance sector** 💰, where I've honed my skills in creating architectures that are secure, resilient, and efficient. 
 I am passionate about researching the internals of computer systems and the challenges I encounter in my work. I enjoy journaling my findings, and you can read my blogs 👉 [🔗](https://oxyprogrammer.com)
