@@ -1,6 +1,6 @@
 #  Hi there! I'm Oxyprogrammer aka. Sid!
 
-With over 18 years of experience in IT, I specialize in designing and building powerful, scalable solutions! 💻🚀
+With over 18 years of experience in IT, I specialize in designing and building powerful, scalable solutions!
 
 ## About Me
 
