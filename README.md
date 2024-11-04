@@ -40,7 +40,7 @@ Feel free to reach out to me or check out my repositories and projects. I’m al
 [![Website](https://img.shields.io/badge/Website-4E8CBA?style=flat&logo=internet-explorer&logoColor=white)](https://www.siddhartha-sarkar.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid-sarkar/) [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://oxyprogrammer.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/oxyprogrammer)
 
 
-## 🏅 Badges
+## 🏅 Technologies
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/) 
